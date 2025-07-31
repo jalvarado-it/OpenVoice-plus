@@ -64,7 +64,7 @@ Download the checkpoint from [here](https://myshell-public-repo-host.s3.amazonaw
 
 Install [MeloTTS](https://github.com/myshell-ai/MeloTTS):
 ```
-pip install git+https://github.com/myshell-ai/MeloTTS.git
+pip install git+https://github.com/jalvarado-it/MeloTTS-plus
 python -m unidic download
 ```
 
